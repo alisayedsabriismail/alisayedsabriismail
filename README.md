@@ -1,5 +1,3 @@
-# 👋 Welcome to My GitHub Profile
-
 Hi, I'm **Ali Sayed Sabri Ismail**  
 💻 Computer Science & IT Teacher  
 🏫 The International School of Choueifat - 6th of October City, Egypt
